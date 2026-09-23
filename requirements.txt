@@ -1,0 +1,7 @@
+# Inference API path used by the final coursework submission.
+# Exact historical versions were not recorded; this is not a lockfile.
+fastmcp
+huggingface_hub
+python-dotenv
+jericho
+spacy

@@ -1,0 +1,114 @@
+{
+  "coursework_commit": "ca1de1791d21a662b012986a9290a0a4c546b9cb",
+  "baseline_commit": "fb1ba557ae4e1244cbbe464899dc2c25f706b7ad",
+  "files": [
+    {
+      "path": "submission/agent.py",
+      "source_commit": "ca1de1791d21a662b012986a9290a0a4c546b9cb",
+      "source_path": "submission_template/agent.py",
+      "source_sha256": "0cf7216b5aa52cf15efbd7d08b0e8950b1588c8835aa9589df6794d351696585",
+      "release_sha256": "a2dab2c740db01ae6d3a512c7df479ef6b4e238489a3a322a14a88343c257509",
+      "attribution": "Course baseline extended in Ying Jin final coursework commit",
+      "changes": "Only normalized line endings and removed trailing whitespace"
+    },
+    {
+      "path": "submission/mcp_server.py",
+      "source_commit": "ca1de1791d21a662b012986a9290a0a4c546b9cb",
+      "source_path": "submission_template/mcp_server.py",
+      "source_sha256": "97ba90d44484cac9c47363872ee7ff4199a799b4f0882c70e4dc8ea85037170b",
+      "release_sha256": "5db7ed2506753cf977ae2ce96593df82b9473fa6c9664bbcd59c4f0f1e48d414",
+      "attribution": "Course MCP scaffold; identical to upstream example",
+      "changes": "Only normalized line endings and removed trailing whitespace"
+    },
+    {
+      "path": "example_submission/agent.py",
+      "source_commit": "fb1ba557ae4e1244cbbe464899dc2c25f706b7ad",
+      "source_path": "example_submission/agent.py",
+      "source_sha256": "0ba922866b72285c182a540f94a0a7a243afe3c36a75eb1c9da5eda529829f0c",
+      "release_sha256": "c7a660ed525abd2be5a667cf770a11e16488921b73125ad2a84815bfe78a0d9b",
+      "attribution": "Unmodified course reference baseline",
+      "changes": "Only normalized line endings and removed trailing whitespace"
+    },
+    {
+      "path": "example_submission/mcp_server.py",
+      "source_commit": "fb1ba557ae4e1244cbbe464899dc2c25f706b7ad",
+      "source_path": "example_submission/mcp_server.py",
+      "source_sha256": "97ba90d44484cac9c47363872ee7ff4199a799b4f0882c70e4dc8ea85037170b",
+      "release_sha256": "5db7ed2506753cf977ae2ce96593df82b9473fa6c9664bbcd59c4f0f1e48d414",
+      "attribution": "Unmodified course reference baseline",
+      "changes": "Only normalized line endings and removed trailing whitespace"
+    },
+    {
+      "path": "games/__init__.py",
+      "source_commit": "fb1ba557ae4e1244cbbe464899dc2c25f706b7ad",
+      "source_path": "games/__init__.py",
+      "source_sha256": "fef37c2371f61782d08ad249fee53b3389abd0102421251d15e791a82a6c7152",
+      "release_sha256": "fef37c2371f61782d08ad249fee53b3389abd0102421251d15e791a82a6c7152",
+      "attribution": "Course environment scaffold",
+      "changes": "Only normalized line endings and removed trailing whitespace"
+    },
+    {
+      "path": "games/zork_env.py",
+      "source_commit": "fb1ba557ae4e1244cbbe464899dc2c25f706b7ad",
+      "source_path": "games/zork_env.py",
+      "source_sha256": "01bc261354b47e2b2f12611f09d1bb21ea8e89e13cb64bcaf95cf692137dbbf8",
+      "release_sha256": "9eea4994497ef8a0726f21751c414a63b4b3a5ec189b7a24eb1790d72b29ab8b",
+      "attribution": "Course environment scaffold; committed version keeps one game directory",
+      "changes": "Only normalized line endings and removed trailing whitespace"
+    },
+    {
+      "path": "run_agent.py",
+      "source_commit": "fb1ba557ae4e1244cbbe464899dc2c25f706b7ad",
+      "source_path": "run_agent.py",
+      "source_sha256": "d06bf0ac6dd63600a866d1aac77ed02a240175a76900c58029e207012a00c14f",
+      "release_sha256": "b8ba19d547ffb68a029ad071745a75d7284ee10b1252ddf00965d24d46f96f7a",
+      "attribution": "Course command-line runner",
+      "changes": "Only normalized line endings and removed trailing whitespace"
+    },
+    {
+      "path": "evaluation/__init__.py",
+      "source_commit": "fb1ba557ae4e1244cbbe464899dc2c25f706b7ad",
+      "source_path": "evaluation/__init__.py",
+      "source_sha256": "afe1c81cb4bf93ab2681f86f810c30db81312e6b6432a5dcbcc946f1e72bca45",
+      "release_sha256": "269a172e7d6bf869faa4be15864c1d262a9589aac2505eaeca2881bead47a03b",
+      "attribution": "Course evaluation scaffold",
+      "changes": "Only normalized line endings and removed trailing whitespace"
+    },
+    {
+      "path": "evaluation/evaluate.py",
+      "source_commit": "fb1ba557ae4e1244cbbe464899dc2c25f706b7ad",
+      "source_path": "evaluation/evaluate.py",
+      "source_sha256": "d4d9efa5dcf917015a3412a8e38f9f891ea9cb87044e96553dbe50d3a9c9f2f0",
+      "release_sha256": "09db01fbea05dfb0515434b1d188f9d1752cc5608cc1353bf7de9afab3a4d348",
+      "attribution": "Course evaluation scaffold",
+      "changes": "Only normalized line endings and removed trailing whitespace"
+    },
+    {
+      "path": "evaluation/metrics.py",
+      "source_commit": "fb1ba557ae4e1244cbbe464899dc2c25f706b7ad",
+      "source_path": "evaluation/metrics.py",
+      "source_sha256": "1ae90734c3242058d394978b6c33cf6529561c1230f20a225be947788908016d",
+      "release_sha256": "1ae90734c3242058d394978b6c33cf6529561c1230f20a225be947788908016d",
+      "attribution": "Course evaluation scaffold",
+      "changes": "Only normalized line endings and removed trailing whitespace"
+    },
+    {
+      "path": "evaluation/runner.py",
+      "source_commit": "fb1ba557ae4e1244cbbe464899dc2c25f706b7ad",
+      "source_path": "evaluation/runner.py",
+      "source_sha256": "96f4695fb3e3acf6e34da0d94b2425d2721e7578d08031695049f53a08c8f514",
+      "release_sha256": "e42e1c85f844eacbb443e3e19e9802b0b826b89ac20a9ece8c0a923630f726e2",
+      "attribution": "Course evaluation scaffold",
+      "changes": "Only normalized line endings and removed trailing whitespace"
+    },
+    {
+      "path": "docs/COURSE_README.md",
+      "source_commit": "fb1ba557ae4e1244cbbe464899dc2c25f706b7ad",
+      "source_path": "README.md",
+      "source_sha256": "e7a838e271f7b08b1685f1cad528d45be824a4eb30bd1874af1f51696ab53b09",
+      "release_sha256": "fbf7bc9c87012bef96f0fcfbf50da43e027846df12ba00bb40354f0fc731b604",
+      "attribution": "Original course README and MIT declaration; historical instructions",
+      "changes": "Only normalized line endings and removed trailing whitespace"
+    }
+  ]
+}
