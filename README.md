@@ -1,6 +1,6 @@
 # Zork: ReAct agent with failure memory
 
-An MVA coursework project by **Ying Jin**, extending a course-provided ReAct agent for text-adventure games. The agent uses a Qwen language model to choose actions, then interacts with a Jericho game environment through MCP tools.
+An MVA coursework project, extending a course-provided ReAct agent for text-adventure games. The agent uses a Qwen language model to choose actions, then interacts with a Jericho game environment through MCP tools.
 
 This repository publishes the completed `submission_template/` implementation from the coursework's `final work` commit as `submission/`. The separate, nested `zork_gold/` checkout found in the local archive was an older starter version and is not the source of this release.
 
