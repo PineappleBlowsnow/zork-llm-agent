@@ -1,8 +1,10 @@
-# Zork: ReAct agent with failure memory
+# Playing Text Adventures with a Tool-Using LLM Agent
+
+**MVA course — LLMs for Code and Proof**
 
 An MVA coursework project, extending a course-provided ReAct agent for text-adventure games. The agent uses a Qwen language model to choose actions, then interacts with a Jericho game environment through MCP tools.
 
-This repository publishes the completed `submission_template/` implementation from the coursework's `final work` commit as `submission/`. The separate, nested `zork_gold/` checkout found in the local archive was an older starter version and is not the source of this release.
+The implementation focuses on a practical failure mode: an agent repeatedly choosing an action that does not work. I extended the reference agent with location-aware failure memory, stagnation detection and fallback exploration. The published version is identified in [provenance](docs/PROVENANCE.md).
 
 ## My contribution
 
@@ -86,3 +88,6 @@ The source preserves the coursework behavior, including limitations useful for f
 The course scaffold is from the **MVA LLM for Code and Proof** text-adventure assignment. The preserved course history names Nathanaël Fijalkow as an upstream contributor. Its original README declares the MIT license and is included in [docs/COURSE_README.md](docs/COURSE_README.md). Game binaries, credentials, model weights and runtime logs are excluded.
 
 The earlier [Hugging Face Space](https://huggingface.co/spaces/jiny05071225/zork_gold) is a related project link; this GitHub release is tied to the source commit documented below, rather than a claim that the Space currently runs an identical version.
+
+
+[Back to the MVA project portfolio](https://github.com/PineappleBlowsnow/mva-portfolio)
