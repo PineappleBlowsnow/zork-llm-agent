@@ -90,4 +90,4 @@ The course scaffold is from the **MVA LLM for Code and Proof** text-adventure as
 The earlier [Hugging Face Space](https://huggingface.co/spaces/jiny05071225/zork_gold) is a related project link; this GitHub release is tied to the source commit documented below, rather than a claim that the Space currently runs an identical version.
 
 
-[Back to the MVA project portfolio](https://github.com/PineappleBlowsnow/mva-portfolio)
+[Back to Ying Jin's project directory](https://github.com/PineappleBlowsnow#mva-projects)
